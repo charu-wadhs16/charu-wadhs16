@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charu Wadhwa.
-- 👀 A Techie...
+- 👀 An Undergrad
 - 🌱 I’m having understanding of C, C++, Python, Java(Basic). 
 - 📫 You can reach me ... @charu-wadhs16 
       
