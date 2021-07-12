@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charu Wadhwa.
 - 👀 An Undergrad
-- 🌱 I’m having understanding of C, C++, Python, Java(Basic). 
+- 🌱 I’m having understanding of C, C++, Python(Basic), Java(Basic). 
 - 📫 You can reach me ... @charu-wadhs16 
       
 <!---
