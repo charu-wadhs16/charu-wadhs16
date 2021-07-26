@@ -2,8 +2,8 @@
 <h3 align="center">A CSE Undergraduate!</h3>
 <p><img align="center" width ="1150" src="https://images8.alphacoders.com/113/thumb-1920-1136157.png" alt="c" /></p>
 
-<p><img align="center" width ="150" src="https://logos.textgiraffe.com/logos/logo-name/Charu-designstyle-boots-m.png" alt="c" /></p>
-<p align="left"> <img width="200" src="https://komarev.com/ghpvc/?username=charu-wadhs16&label=Profile%20views&color=0e75b6&style=flat" alt="charu-wadhs16" /> </p>
+<p><img align="center" width ="110" src="https://logos.textgiraffe.com/logos/logo-name/Charu-designstyle-boots-m.png" alt="c" /></p>
+<p align="left"> <img width="160" src="https://komarev.com/ghpvc/?username=charu-wadhs16&label=Profile%20views&color=0e75b6&style=flat" alt="charu-wadhs16" /> </p>
 🌱 I’m currently working on enhancing my skills.
 
 📫 You can reach me **@ charu-wadhs16**
