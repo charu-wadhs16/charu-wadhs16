@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charu Wadhwa</h1>
-<h3 align="center">A CSE Undergraduate!</h3>
+<h3 align="center">A CSE Graduate!</h3>
 <p><img align="center" width ="1150" src="https://images8.alphacoders.com/113/thumb-1920-1136157.png" alt="c" /></p>
 
 <p><img align="center" width ="110" src="https://logos.textgiraffe.com/logos/logo-name/Charu-designstyle-boots-m.png" alt="c" /></p>
